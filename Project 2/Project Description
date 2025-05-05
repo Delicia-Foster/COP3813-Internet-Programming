@@ -1,0 +1,57 @@
+Project 2
+Purpose
+ - This project provides students an opportunity to practice building web pages using HTML, CSS, and JavaScript to control a form and validate the data the user enters into the form. The skills students learn by completing this project will assist them with the other projects in this course.
+
+Project Objectives
+ After completing this project, students will be able to:
+    1.	Describe the purpose of using JavaScript to create dynamic webpages.
+    2.	List and explain common JavaScript statements.
+    3.	Explain how JavaScript interacts with a webpage through the Document Object Model (DOM).
+    4.	Describe the client-side nature of JavaScript.
+    5.	Design, develop, and publish a dynamic webpage using HTML, CSS, and JavaScript on a web server.
+    6.	Use inline, internal, and external JavaScript statements to dynamically control a webpage.
+
+Directions
+  •	Review the requirements listed in the Project Requirements section
+    o	Do not forget to review the material in the related modules
+      	Modules 5 & 6
+    o	Do not forget to take advantage of the Project 2 Tech Support Forum
+      	Students may receive extra credit for participating
+  •	Create the web page(s) that meet(s) all of the stated requirements
+    o	Students may freely use HTML and CSS code from the following sources:
+      	zyBooks textbook
+      	w3schools.com
+    o	Students should avoid simply copying and pasting code from other sources
+  •	Upload all related files to the Course Web Server
+    o	Note: Students will not submit anything to Canvas.
+  •	Test the web page(s) on the Course Web Server to ensure proper operation
+    o	The web page(s) will be graded on how they function on the Course Web Server
+  •	Finish the project before the posted due date (refer to the Course Schedule)
+
+Required Tools
+  - Students will be required to use one or more of the following tools to earn a passing grade on the project. Each of the tools listed below can be downloaded for free or already exist in the indicated operating system.
+  •	Web browser
+    o	Chrome or Firefox (recommended)
+    o	All other browsers should be avoided during this class
+  •	Plain text editor (avoid Rich Text editors)
+    o	Windows
+      	Notepad++
+    o	Mac OS
+      	TextWrangler
+      	TextEdit (plain-text mode)
+    o	Linux (terminal)
+      	pico
+      	vi
+  •	Secure Shell (SSH) client
+    o	Windows
+      	BitVise
+    o	Mac OS and Linux (terminal)
+      	ssh
+  •	File transfer tool (must support SFTP via SSH - DO NOT USE FTP)
+    o	Windows
+      	BitVise
+    o	Mac OS
+      	CyberDuck
+      	sftp (terminal)
+    o	Linux (terminal)
+      	sftp
